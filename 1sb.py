@@ -30,7 +30,7 @@ from thrift.transport import THttpClient
 _session = requests.session()
 botStart = time.time()
 print("\n                   SB")
-cl = LINE("gmail","pass")
+cl = LINE()
 
 print("\nɪɴᴇxʙᴏᴛs.ʟɪɴᴇ ᴠᴇʀ.8.14.2 ᴘʀᴏᴛᴇᴄᴛ \n__________________________")
 
